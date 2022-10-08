@@ -4,7 +4,7 @@ Presence:
 
 -   all present
 
-![Downloads](./Screen Shot 1401-07-15 at 09.41.16.png)
+
 
 
 
